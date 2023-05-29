@@ -389,6 +389,7 @@
 <details>
   <summary>SOLID(객체지향 5대원칙)에 대해서.</summary>
   </br>
+  https://jiyoungmerong.tistory.com/53
 </details>
 
 <details>
