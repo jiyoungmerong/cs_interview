@@ -37,6 +37,11 @@
 </details>
 
 <details>
+  <summary>HTTP 상태코드</summary>
+  </br> https://jiyoungmerong.tistory.com/68
+</details>
+
+<details>
   <summary>RESTful이란 무엇인지</summary>
   </br>
 </details>
