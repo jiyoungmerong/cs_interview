@@ -86,7 +86,7 @@
 
 <details>
   <summary>동기와 비동기의 차이(블로킹, 넌블로킹) / 장단점</summary>
-  </br>
+  </br>https://jiyoungmerong.tistory.com/85
 </details>
 
 <details>
