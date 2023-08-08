@@ -458,6 +458,11 @@
   </br>
 </details>
 
+<details>
+  <summary>JDK와 JRE</summary>
+  </br>https://jiyoungmerong.tistory.com/80
+</details>
+
 #### Spring
 
 <details>
